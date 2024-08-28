@@ -22,30 +22,47 @@
 ![NetworkPlus Logo Certified CE resize](https://github.com/user-attachments/assets/2c127690-a08e-4c41-bdf3-3a6a6d067936)
 ![Aplus Logo Certified CE](https://github.com/user-attachments/assets/2628557a-0d00-444b-8f52-3e224bca43f8)
 
-# My Cybersecurity Projects
+# Welcome to My Cybersecurity Portfolio
 
 ## Nmap and Wireshark Vulnerabilities and Network Scan Analysis
 
-### Project Overview
-This project aims to identify and analyze network vulnerabilities and anomalies using Nmap and Wireshark in a virtual lab environment. The project also aims to uncover potential security risks within the network by conducting a comprehensive scan and traffic analysis. The findings will inform recommendations to enhance the network's security posture, protecting it against emerging threats. This project demonstrates the practical application of network mapping and monitoring tools in maintaining cybersecurity.
+### Project Description
+This project, conducted as part of my studies at Western Governors University, aimed to identify and analyze network vulnerabilities and anomalies using Nmap and Wireshark in a virtual lab environment. The objective was to uncover potential security risks within the network by conducting a comprehensive scan and traffic analysis. The findings from this analysis were used to inform recommendations to enhance the network's security posture, protecting it against emerging threats.
 
-### Screenshots
+The project demonstrates the practical application of network mapping and monitoring tools in maintaining cybersecurity, with a focus on real-world scenarios and proactive defense strategies.
 
-![Vulnerabilities and Recommendations](https://github.com/yourusername/yourrepository/raw/main/path/to/image/file-OglMMPG5FXuDRXTvFHswrvo6.jpg)
+### Key Highlights
 
-![Nmap Scan](https://github.com/yourusername/yourrepository/raw/main/path/to/image/file-yTpjn9kSfbu50tlHovSi2y2b.jpg)
+- **Tools Used**: Nmap, Wireshark
+- **Focus Areas**: Vulnerability scanning, network topology analysis, traffic inspection, threat identification
+- **Outcome**: Enhanced security recommendations for the network, protection against potential exploits
 
-![Zenmap Topology](https://github.com/yourusername/yourrepository/raw/main/path/to/image/file-D5MB9stgsr2TUY57murZfYC4.jpg)
+### Screenshots and Analysis
 
-![Packet Analysis with Wireshark](https://github.com/yourusername/yourrepository/raw/main/path/to/image/file-ejMrzX06xwHUWE8lLMVkDtxs.jpg)
+![Vulnerabilities and Recommendations](images/file-OglMMPG5FXuDRXTvFHswrvo6.jpg)
 
-![Systems Engineer Application](https://github.com/yourusername/yourrepository/raw/main/path/to/image/file-QKISPFKk7QqsNe38KYqEl8EO.jpg)
+*Figure 1: Overview of identified vulnerabilities and recommended patches.*
 
-![Network Topology](https://github.com/yourusername/yourrepository/raw/main/path/to/image/file-p2zCUYJPUy27RtIUsysrJxEU.jpg)
+![Nmap Scan](images/file-yTpjn9kSfbu50tlHovSi2y2b.jpg)
 
-![Analysis Summary](https://github.com/yourusername/yourrepository/raw/main/path/to/image/file-qAx6xI67WY6lsZH5pmYV4MMG.jpg)
+*Figure 2: Nmap scan results showing open ports and services.*
 
-![Analysis Summary](https://github.com/yourusername/yourrepository/raw/main/path/to/image/file-qAx6xI67WY6lsZH5pmYV4MMG.jpg)
+![Zenmap Topology](images/file-D5MB9stgsr2TUY57murZfYC4.jpg)
+
+*Figure 3: Network topology visualization using Zenmap.*
+
+![Packet Analysis with Wireshark](images/file-ejMrzX06xwHUWE8lLMVkDtxs.jpg)
+
+*Figure 4: Packet analysis of network traffic using Wireshark.*
+
+### Conclusion
+This project highlights the importance of continuous monitoring and proactive security measures in network management. By leveraging tools like Nmap and Wireshark, cybersecurity professionals can effectively detect and mitigate vulnerabilities before they are exploited by malicious actors.
+
+---
+
+### Connect with Me
+
+Feel free to explore my other projects and connect with me on [LinkedIn](https://www.linkedin.com/in/toree-mcintyre-739095211/)!
 
 
 
