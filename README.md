@@ -43,7 +43,7 @@ The project demonstrates the practical application of network mapping and monito
 
 *Figure 1: Overview of identified vulnerabilities and recommended patches.*
 
-![Nmap Scan] Screenshot 2024-08-20 214529.jpg
+![Nmap Scan](
 
 *Figure 2: Nmap scan results showing open ports and services.*
 
