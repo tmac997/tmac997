@@ -4,7 +4,7 @@
 
 
 
-<h2 align="left"> Hi there! I’m Toree McIntyre, a passionate Cybersecurity professional currently pursuing a Bachelor of Science in Cybersecurity and Information Assurance at WGU. With hands-on experience in threat analysis, risk management, and network security, I bring a strong foundation in collaboration technologies and technical problem-solving. 
+<h2 align="left"> Hi there! I’m Toree McIntyre, a passionate Cybersecurity professional!I have hands-on experience in threat analysis, risk management, and network security, I bring a strong foundation in collaboration technologies and technical problem-solving. 
 
   
 ###
