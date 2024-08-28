@@ -22,7 +22,7 @@
 ![NetworkPlus Logo Certified CE resize](https://github.com/user-attachments/assets/2c127690-a08e-4c41-bdf3-3a6a6d067936)
 ![Aplus Logo Certified CE](https://github.com/user-attachments/assets/2628557a-0d00-444b-8f52-3e224bca43f8)
 
-#### My Cybersecurity Projects
+# My Cybersecurity Projects
 
 ## Nmap and Wireshark Vulnerabilities and Network Scan Analysis
 
@@ -45,6 +45,8 @@ This project aims to identify and analyze network vulnerabilities and anomalies 
 
 ![Analysis Summary](https://github.com/yourusername/yourrepository/raw/main/path/to/image/file-qAx6xI67WY6lsZH5pmYV4MMG.jpg)
 
+![Analysis Summary](https://github.com/yourusername/yourrepository/raw/main/path/to/image/file-qAx6xI67WY6lsZH5pmYV4MMG.jpg)
+
 
 
 
@@ -58,9 +60,7 @@ This project aims to identify and analyze network vulnerabilities and anomalies 
 ### Cyber Aesthetic 🌐
 
 ![Cyberpunk GIF](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
-### Stay Secure, Stay Vigilant 🛡️
-
-![Security GIF](https://media.giphy.com/media/l2JhOVm6TDbEo7mRO/giphy.gif)
+### Stay Secure, Stay Vigilant 🛡️![Security GIF](https://media.giphy.com/media/l2JhOVm6TDbEo7mRO/giphy.gif)
 
 ---
 
