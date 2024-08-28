@@ -1,45 +1,63 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">  # Welcome to My Cyber Realm! 👾</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+
+
+<h2 align="left"> Hi there! I’m Toree McIntyre, a passionate Cybersecurity professional currently pursuing a Bachelor of Science in Cybersecurity and Information Assurance at WGU. With hands-on experience in threat analysis, risk management, and network security, I bring a strong foundation in collaboration technologies and technical problem-solving. 
+
+  
+###
+
+
+<p align="left">✨  <br>📚 
+  I'm currently learning Linux and security+...<br>🎯 Goals: To help with projects and graduate ...<br>🎲 Fun fact: ...</p>
 
 ###
 
-<h2 align="left">About me</h2>
+
+<h2 align="left">My Cyber Skills 🛠️</h2>
 
 ###
+![NetworkPlus Logo Certified CE resize](https://github.com/user-attachments/assets/2c127690-a08e-4c41-bdf3-3a6a6d067936)
+![Aplus Logo Certified CE](https://github.com/user-attachments/assets/2628557a-0d00-444b-8f52-3e224bca43f8)
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
-###
 
-<h2 align="left">I code with</h2>
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.n[InternetShortcut]
-URL=https://www.google.com/imgres?q=comptia%20A%2B%20logo&imgurl=https%3A%2F%2Fimages.credly.com%2Fimages%2F63482325-a0d6-4f64-ae75-f5f33922c7d0%2FCompTIA_A_2Bce.png&imgrefurl=https%3A%2F%2Fwww.comptia.org%2Fcertifications%2Fcomptia-digital-badges&docid=k0cTx_pCAIV7RM&tbnid=JutJc0XCP3sUIM&vet=12ahUKEwj3n93q05aIAxVslokEHTzYB94QM3oECBsQAA..i&w=600&h=600&hcb=2&ved=2ahUKEwj3n93q05aIAxVslokEHTzYB94QM3oECBsQAA
-IDList=
-HotKey=0
-IconFile=C:\Users\toree\AppData\Local\Mozilla\Firefox\Profiles\jgctb87v.default-release-1685332573942\shortcutCache\+OkRVpHYGIH7PrAuRTyJvGYq8mTXPv6thxON3+b6zzM=.ico
-IconIndex=0
-et/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
 
-###
+### Contribution Graph
+
+### GitHub Stats
+
+![Toree's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+### Cyber Aesthetic 🌐
+
+![Cyberpunk GIF](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
+### Stay Secure, Stay Vigilant 🛡️
+
+![Security GIF](https://media.giphy.com/media/l2JhOVm6TDbEo7mRO/giphy.gif)
+
+---
+
+### Connect with Me!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/toree-mcintyre-739095211/)
+
+### Test Your Skills 🧠
+
+[TryHackMe](https://tryhackme.com/) - Interactive cyber labs for all skill levels.  
+[Hack The Box](https://www.hackthebox.eu/) - Penetration testing labs to practice your skills.  
+[OverTheWire](https://overthewire.org/wargames/) - Wargames for security enthusiasts.
+
+### My Cyber Projects 🛠️
+
+- **[Malware Analysis Toolkit](https://github.com/yourusername/malware-analysis-toolkit)**: A collection of tools for analyzing and reversing malware. 🔍
+- **[Firewall Configurations](https://github.com/yourusername/firewall-configs)**: Secure and optimized firewall setups for different network scenarios. 🛡️
+- **[Phishing Detection](https://github.com/yourusername/phishing-detection)**: A Python script to detect and prevent phishing attacks. 🎣
+
+
+
+
