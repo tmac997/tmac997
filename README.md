@@ -1,22 +1,19 @@
-<h1 align="left">  # Welcome to My Cyber Realm! 👾</h1>
+# Welcome to My Cyber Realm! 👾</h1>
+
+###
+### Connect with Me!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/toree-mcintyre-739095211/)
+
+Hi there! I’m Toree McIntyre, a passionate Cybersecurity professional!I have hands-on experience in threat analysis, risk management, and network security, I bring a strong foundation in collaboration technologies and technical problem-solving. 
+###
+
+<p align="left">✨  <br>📚 I'm currently learning Linux and security+...<br>🎯 Goals: To help with projects and graduate ...<br>🎲 Fun fact: ...</p>
 
 ###
 
 
-
-<h2 align="left"> Hi there! I’m Toree McIntyre, a passionate Cybersecurity professional!I have hands-on experience in threat analysis, risk management, and network security, I bring a strong foundation in collaboration technologies and technical problem-solving. 
-
-  
-###
-
-
-<p align="left">✨  <br>📚 
-  I'm currently learning Linux and security+...<br>🎯 Goals: To help with projects and graduate ...<br>🎲 Fun fact: ...</p>
-
-###
-
-
-<h2 align="left">My Cyber Skills 🛠️</h2>
+<h2 align="left">My Cyber Skills 🧠🛠️</h2>
 
 ###
 ![NetworkPlus Logo Certified CE resize](https://github.com/user-attachments/assets/2c127690-a08e-4c41-bdf3-3a6a6d067936)
@@ -77,19 +74,14 @@ Feel free to explore my other projects and connect with me on [LinkedIn](https:/
 ### Cyber Aesthetic 🌐
 
 ![Cyberpunk GIF](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
-### Stay Secure, Stay Vigilant 🛡️![Security GIF](https://media.giphy.com/media/l2JhOVm6TDbEo7mRO/giphy.gif)
+### Stay Secure, Stay Vigilant 🛡️
+![Security GIF](https://media.giphy.com/media/l2JhOVm6TDbEo7mRO/giphy.gif)
 
 ---
 
-### Connect with Me!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/toree-mcintyre-739095211/)
 
-### Test Your Skills 🧠
 
-[TryHackMe](https://tryhackme.com/) - Interactive cyber labs for all skill levels.  
-[Hack The Box](https://www.hackthebox.eu/) - Penetration testing labs to practice your skills.  
-[OverTheWire](https://overthewire.org/wargames/) - Wargames for security enthusiasts.
 
 
 
