@@ -8,7 +8,7 @@
 Hi there! I’m Toree McIntyre, a passionate Cybersecurity professional!I have hands-on experience in threat analysis, risk management, and network security, I bring a strong foundation in collaboration technologies and technical problem-solving. 
 ###
 
-<p align="left">✨  <br>📚 I'm currently learning Linux and security+...<br>🎯 Goals: To help with projects and graduate ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨  <br>📚 I'm currently learning Linux and security+...<br>🎯 Goals: To help with projects and graduate ...<br>🎲 Fun fact: got emerald on R6 iykyk ...</p>
 
 ###
 
