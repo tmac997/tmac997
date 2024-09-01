@@ -35,22 +35,23 @@ The project demonstrates the practical application of network mapping and monito
 - **Outcome**: Enhanced security recommendations for the network, protection against potential exploits
 
 ### Screenshots and Analysis
+# Project Images
 
-![Vulnerabilities and Recommendations](images/file-OglMMPG5FXuDRXTvFHswrvo6.jpg)
+## Image 1
+![Nmap Topology](https://github.com/yourusername/yourrepositoryname/blob/main/Screenshot%202024-08-20%20214535.jpg)
 
-*Figure 1: Overview of identified vulnerabilities and recommended patches.*
+## Image 2
+![Scan Results](https://github.com/yourusername/yourrepositoryname/blob/main/Screenshot%202024-08-02%20150621%20-%20Copy.jpg)
 
-![Nmap Scan](images/file-OglMMPG5FXuDRXTvFHswrvo6.jpg).
+## Image 3
+![Nmap Details](https://github.com/yourusername/yourrepositoryname/blob/main/Screenshot%202024-07-31%20224856%20-%20Copy.jpg)
 
-*Figure 2: Nmap scan results showing open ports and services.*
+## Image 4
+![Wireshark SSH Analysis](https://github.com/yourusername/yourrepositoryname/blob/main/Screenshot%202024-08-02%20163035.jpg)
 
-![Zenmap Topology](images/file-D5MB9stgsr2TUY57murZfYC4.jpg)
+## Image 5
+![Vulnerability Details](https://github.com/yourusername/yourrepositoryname/blob/main/Screenshot%202024-08-20%20214529%20-%20Copy.jpg)
 
-*Figure 3: Network topology visualization using Zenmap.*
-
-![Packet Analysis with Wireshark](images/file-ejMrzX06xwHUWE8lLMVkDtxs.jpg)
-
-*Figure 4: Packet analysis of network traffic using Wireshark.*
 
 ### Conclusion
 This project highlights the importance of continuous monitoring and proactive security measures in network management. By leveraging tools like Nmap and Wireshark, cybersecurity professionals can effectively detect and mitigate vulnerabilities before they are exploited by malicious actors.
