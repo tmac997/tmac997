@@ -33,26 +33,30 @@ The project demonstrates the practical application of network mapping and monito
 - **Tools Used**: Nmap, Wireshark
 - **Focus Areas**: Vulnerability scanning, network topology analysis, traffic inspection, threat identification
 - **Outcome**: Enhanced security recommendations for the network, protection against potential exploits
+# Nmap and Vulnerability Analysis
 
-### Screenshots and Analysis
-# Project Images
+This project involves analyzing a network topology using Nmap and identifying vulnerabilities associated with various systems. Below are the images and their corresponding descriptions that detail the analysis.
 
-# Project Images
+## Topology Overview
+![Topology Overview](https://github.com/tmac997/tmac997/blob/main/Screenshot%202024-08-20%20214535.jpg)
+This image shows the star topology identified during the Nmap scan. The central node is the localhost, with six machines connected.
 
-## Image 1
-![Nmap Topology](https://github.com/tmac997/tmac997/blob/main/Screenshot%202024-08-20%20214535.jpg)
+## Nmap Scan Results - Linux Systems
+![Nmap Scan Linux](https://github.com/tmac997/tmac997/blob/main/Screenshot%202024-08-02%20150621%20-%20Copy.jpg)
+This screenshot shows the Nmap scan results for the Linux machines in the network. The machines are running on OS version 2.6.32 and are connected to IPs 10.168.27.14, 10.168.27.15, and 10.168.27.132.
 
-## Image 2
-![Scan Results](https://github.com/tmac997/tmac997/blob/main/Screenshot%202024-08-02%20150621%20-%20Copy.jpg)
+## Nmap Scan Results - Windows Servers
+![Nmap Scan Windows](https://github.com/tmac997/tmac997/blob/main/Screenshot%202024-07-31%20224856%20-%20Copy.jpg)
+This image depicts the scan results for Windows servers in the network. It highlights the open ports and possible vulnerabilities in Windows Server 2012 and 2008.
 
-## Image 3
-![Nmap Details](https://github.com/tmac997/tmac997/blob/main/Screenshot%202024-07-31%20224856%20-%20Copy.jpg)
-
-## Image 4
+## Wireshark SSH Analysis
 ![Wireshark SSH Analysis](https://github.com/tmac997/tmac997/blob/main/Screenshot%202024-08-02%20163035.jpg)
+This screenshot captures the SSH traffic analyzed using Wireshark. The image is linked to vulnerabilities such as CVE-2024-38510 and CVE 2013-1193.
 
-## Image 5
+## Vulnerability Details and Mitigations
 ![Vulnerability Details](https://github.com/tmac997/tmac997/blob/main/Screenshot%202024-08-20%20214529%20-%20Copy.jpg)
+This image summarizes the details of several vulnerabilities discovered during the analysis, including CVE-2022-0918, CVE-2002-0283, CVE-2024-38510, and CVE 2013-1193, along with their potential impacts and suggested mitigations.
+
 
 
 
