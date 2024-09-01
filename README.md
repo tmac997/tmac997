@@ -79,9 +79,7 @@ Feel free to explore my other projects and connect with me on [LinkedIn](https:/
 
 ![Toree's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-### Cyber Aesthetic 🌐
 
-![Cyberpunk GIF](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
 ### Stay Secure, Stay Vigilant 🛡️
 ![Security GIF](https://media.giphy.com/media/l2JhOVm6TDbEo7mRO/giphy.gif)
 
