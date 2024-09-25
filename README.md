@@ -56,7 +56,10 @@ This image depicts the scan results for Windows servers in the network. It highl
 This screenshot captures the SSH traffic analyzed using Wireshark. The image is linked to vulnerabilities such as CVE-2024-38510 and CVE 2013-1193.
 
 ## Vulnerability Details and Mitigations
-![Vulnerability Details](https://github.com/tmac997/tmac997/blob/main/Screenshot%202024-08-20%20214529%20-%20Copy.jpg)
+![Vulnerability Details](https://github.com/tmac997/tmac997/blob/main/Screenshot%202024-08-20%20214529%20-%20Copy.jpg)![Screenshot 2024-09-25 142539](https://github.com/user-attachments/assets/f72ab90e-c47b-482a-80ae-59a534e1e5ce)
+
+
+
 This image summarizes the details of several vulnerabilities discovered during the analysis, including CVE-2022-0918, CVE-2002-0283, CVE-2024-38510, and CVE 2013-1193, along with their potential impacts and suggested mitigations.
 
 
