@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/toree-mcintyre-739095211/)
 
-Hi there! I’m Toree McIntyre, a passionate Cybersecurity professional!I have hands-on experience in threat analysis, risk management, and network security, I bring a strong foundation in collaboration technologies and technical problem-solving. 
+Hi there! I’m Toree McIntyre, a passionate cybersecurity and network professional! I have hands-on experience in threat analysis, risk management, and network security; I bring a strong foundation in collaboration technologies and technical problem-solving. 
 ###
 
 <p align="left">✨  <br>📚 I'm currently learning Linux ...<br>🎯 Goals: To help with projects and graduate ...<br>🎲 Fun fact: got emerald on R6 iykyk ...</p>
@@ -15,11 +15,6 @@ Hi there! I’m Toree McIntyre, a passionate Cybersecurity professional!I have h
 
 <h2 align="left">My Cyber Skills 🧠🛠️</h2>
 
-###
-![NetworkPlus Logo Certified CE resize](https://github.com/user-attachments/assets/2c127690-a08e-4c41-bdf3-3a6a6d067936)
-![Aplus Logo Certified CE](https://github.com/user-attachments/assets/2628557a-0d00-444b-8f52-3e224bca43f8)
-![SecurityPlus Logo Certified CE](https://github.com/user-attachments/assets/3890d188-f28c-429e-91b9-31df5c66d6e0)
-![Cybersecurity CompTIA Secure Infrastructure Specialist - CSIS logo](https://github.com/user-attachments/assets/ac58d6b0-8842-4ece-b392-0fc12b120d8f)
 
 # Welcome to My Cybersecurity Portfolio
 
